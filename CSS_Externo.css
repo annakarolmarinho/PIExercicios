@@ -1,0 +1,27 @@
+.div_A{
+    background-color: #c894eb;
+    width: 500px;
+    height: 500px;
+}
+.div_B{
+    background-color: #6a0eb6;
+    width: 50%;
+    height: 50%;
+}
+#texto{
+    background-color: #eb89ca;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.div_C{
+    width: 70%;
+    height: 50vh;
+    background-color: rgb(93, 209, 248);
+}
+.div_D{
+    width: 100vw;
+    height: 65%;
+    background-color: rgb(255, 0, 55);
+}
